@@ -1,3 +1,9 @@
+stlink (1.8.0-1~bpo12+1) bookworm-backports; urgency=medium
+
+  * Rebuild for bookworm-backports.
+
+ -- Luca Boccassi <bluca@debian.org>  Mon, 27 May 2024 23:04:19 +0100
+
 stlink (1.8.0-1) unstable; urgency=medium
 
   * Switch to gbp workflow, binary OSX blobs no longer included upstream
